@@ -35,6 +35,13 @@ Driver Education: Educate drivers on the statistical correlation between card pa
 
 User Experience Optimization: Ensure the payment interface is seamless to reduce friction for passengers during the checkout process.
 
+## **Reflections and Learnings**  
+Challenge: Handling the large sample size of NYC taxi data and ensuring the t-test assumptions were met.
+
+Learning: Realized the importance of Welch's t-test when dealing with groups that have unequal variances.
+
+Application: This statistical approach can be applied to my own business, 'Herb House', to analyze booking patterns between different platforms.
+
 ### **Repository Structure**  
 notebooks/: Contains the Jupyter Notebook with complete Python code, EDA, and visualizations.
 
