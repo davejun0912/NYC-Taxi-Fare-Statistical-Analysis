@@ -15,9 +15,9 @@ Construct: Performed a two-sample t-test (Welch's t-test) to account for potenti
 Execute: Interpreted the p-value and provided strategic recommendations to stakeholders.  
 
 ### **Hypothesis Testing**  
-Null Hypothesis ($H_0$): There is no difference in the average fare amount between customers who pay with credit cards and those who pay with cash ($μ_credit$ = $μ_cash$).
+Null Hypothesis ($H_0$): There is no difference in the average fare amount between customers who pay with credit cards and those who pay with cash ($μ_{credit}$ = $μ_{cash}$).
 
-Alternative Hypothesis ($H_a$): Customers who use credit cards pay a higher average fare amount than those who use cash ($μ_credit$ > $μ_cash$).
+Alternative Hypothesis ($H_a$): Customers who use credit cards pay a higher average fare amount than those who use cash ($μ_{credit}$ > $μ_{cash}$).
 
 ### **Statistical Results**  
 Confidence Level: 95% (α=0.05)
