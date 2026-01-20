@@ -3,25 +3,19 @@
 ## **Project Overview**  
 This project is a key component of the Google Advanced Data Analytics Professional Certificate program. It involves a workplace scenario for a fictional consulting firm, Automatidata, representing a real-world data analysis task for the New York City Taxi & Limousine Commission (TLC). The primary objective is to conduct a formal hypothesis test to determine if there is a statistically significant difference in the average fare amount between customers who pay with credit cards and those who pay with cash.
 
-Problem Statement  
+## **Problem Statement**  
 The New York City TLC seeks to optimize revenue and improve payment efficiency. The core business question is whether credit card transactions are associated with higher fare amounts. If a significant relationship is found, the organization can develop data-driven strategies to encourage credit card adoption, potentially leading to higher overall trip value and improved data tracking.
 
-Methodology  
+## **Methodology**  
 The analysis follows the PACE (Plan, Analyze, Construct, Execute) framework to ensure a structured approach to data science:
 
-Plan: Defined the business problem and identified the appropriate statistical test.
-
-Analyze: Conducted Exploratory Data Analysis (EDA) to assess data distribution and quality.
-
-Construct: Performed a two-sample t-test (Welch's t-test) to account for potential unequal variances between the two payment groups.
-
-Execute: Interpreted the p-value and provided strategic recommendations to stakeholders.
+Plan: Defined the business problem and identified the appropriate statistical test.  
+Analyze: Conducted Exploratory Data Analysis (EDA) to assess data distribution and quality.  
+Construct: Performed a two-sample t-test (Welch's t-test) to account for potential unequal variances between the two payment groups.  
+Execute: Interpreted the p-value and provided strategic recommendations to stakeholders.  
 
 Hypothesis Testing
-Null Hypothesis (H 
-0
-​	
- )
+Null Hypothesis (H0)
 
 There is no difference in the average fare amount between customers who pay with credit cards and those who pay with cash (μ 
 credit
