@@ -17,7 +17,7 @@ Execute: Interpreted the p-value and provided strategic recommendations to stake
 ### **Hypothesis Testing**  
 Null Hypothesis ($H_0$): There is no difference in the average fare amount between customers who pay with credit cards and those who pay with cash ($μ_credit$ = $μ_cash$).
 
-Alternative Hypothesis ($H_a$)): Customers who use credit cards pay a higher average fare amount than those who use cash ($μ_credit$ > $μ_cash$).
+Alternative Hypothesis ($H_a$): Customers who use credit cards pay a higher average fare amount than those who use cash ($μ_credit$ > $μ_cash$).
 
 ### **Statistical Results**  
 Confidence Level: 95% (α=0.05)
