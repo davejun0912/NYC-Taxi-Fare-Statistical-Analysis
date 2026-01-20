@@ -14,10 +14,10 @@ Analyze: Conducted Exploratory Data Analysis (EDA) to assess data distribution a
 Construct: Performed a two-sample t-test (Welch's t-test) to account for potential unequal variances between the two payment groups.  
 Execute: Interpreted the p-value and provided strategic recommendations to stakeholders.  
 
-Hypothesis Testing  
-Null Hypothesis (H0): There is no difference in the average fare amount between customers who pay with credit cards and those who pay with cash (μ credit =μ cash).
+### **Hypothesis Testing**  
+Null Hypothesis ($H_0$): There is no difference in the average fare amount between customers who pay with credit cards and those who pay with cash ($μ_credit$ = $μ_cash$).
 
-Alternative Hypothesis (H a)): Customers who use credit cards pay a higher average fare amount than those who use cash (μ credit >μ cash).
+Alternative Hypothesis ($H_a$)): Customers who use credit cards pay a higher average fare amount than those who use cash ($μ_credit$ > $μ_cash$).
 
 ### **Statistical Results**  
 Confidence Level: 95% (α=0.05)
